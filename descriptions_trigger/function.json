@@ -1,0 +1,13 @@
+{
+  "name": "descriptions_trigger",
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "name": "myblob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "images-description/{name}",
+      "connection": "images06_STORAGE"
+    }
+  ]
+}

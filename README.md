@@ -1,4 +1,4 @@
-# Azure Function for Automated Image Description and Management
+# Azure Function for Automated SEO optimized Image Description and Management
 
 ## Overview
 
